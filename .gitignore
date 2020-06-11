@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+Data/
+Exps*/
+Notebooks/
+figs/
+*png
+ltp_model/
